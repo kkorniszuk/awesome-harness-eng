@@ -1,4 +1,4 @@
-# Awesome Graph Harness [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Graph Harness
 
 > Knowledge sources for AI agent harnesses: graphs, models, provenance. Papers, tools, inspiration.
 
