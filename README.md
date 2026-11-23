@@ -74,6 +74,7 @@ Many entries are 2025–2026 preprints without peer review; a venue is listed on
 
 - [RPG: Repository Planning Graph](https://arxiv.org/abs/2509.16198) – One graph (capabilities, files, interfaces, data flows) replaces the text plan; topological, test-first generation. *2025.*
 - [iEcoreGen](https://arxiv.org/abs/2512.05498) – Deterministic generator writes structure from an EMF model; the LLM only fills method bodies. *Preprint, 2025.*
+- [Metamodel-Guided Model Generation with Layered Constraints](https://arxiv.org/abs/2510.25890) – Spec constraints linked to metamodel elements, enforced at generation time, then validated with bounded repair; all 60 AUTOSAR runs passed acceptance and all 255 ARXML files passed XSD. *Preprint, 2025.*
 - [Type-Constrained Code Generation](https://arxiv.org/abs/2504.09246) – Type-constrained decoding cuts compile errors by more than half. *PLDI 2025.*
 - [Grammar Prompting](https://arxiv.org/abs/2305.19234) – Constrain generation with a domain-specific grammar. *NeurIPS 2023.*
 - [Private-Library-Oriented Code Generation](https://arxiv.org/abs/2307.15370) – Generating code against APIs the model never saw. *2023.*
